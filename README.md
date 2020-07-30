@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## My friends call me Habs
+### I am a Front End Developer and really like creating fun UIs.
+
+- 🔭 I’m currently working on a cool React project that will cater the needs of people today
+- 🌱 I’m currently learning the ins and outs of different JavaScript UI frameworks
+
 <!--
 **habcor/habcor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
